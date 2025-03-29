@@ -80,3 +80,4 @@
 #         print(self.__name + "attacking knight!")
 #         num.take_damage(r.randint(1, 6))
 
+sc
