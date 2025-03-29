@@ -40,3 +40,4 @@ class System(Pay):
 buy=(Credit(),Cash(),System())
 for i in buy:
     print(i.process(123))
+print()
