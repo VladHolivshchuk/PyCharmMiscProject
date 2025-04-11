@@ -119,7 +119,7 @@ def studyLife(self, day):
         self.eat()
     elif self.health < 50:
         self.sleep()
-    elif self.progress < 5:
+    elif self.progress < 6:
         self.study()
     elif self.happy < 30:
         self.chill()
