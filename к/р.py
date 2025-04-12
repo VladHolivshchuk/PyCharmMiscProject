@@ -156,8 +156,8 @@ if obj.auditSite():
                 print("{} x {:.4f} (@ ${}) = ${}".format(
                     item['name'],
                     item['quantity'],
-                    str(item['price_per_unit']), # Просто перетворюємо на рядок
-                    str(subtotal)               # Просто перетворюємо на рядок
+                    str(item['price_per_unit']),
+                    str(subtotal)
                 ))
 
             print()
