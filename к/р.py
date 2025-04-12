@@ -162,5 +162,5 @@ if obj.auditSite():
 
             print()
             # Спрощене виведення загальної суми
-            print("ДДо спалти: $" + str(total_cost))
+            print("ДДо салти: $" + str(total_cost))
         print()
